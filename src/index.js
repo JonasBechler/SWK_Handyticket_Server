@@ -12,7 +12,7 @@ config.fusionauth = fusionAuth_config
 const frontend_dir = path.join(__dirname, "..", "..", "react", "build")
 const userDataPath = path.join(__dirname, "..", "data", "accounts.json")
 
-var app = require('./SWK_Server_Template/src/main')(config, userDataPath)
+var app = require('./SWK_Server_Template/src/main')(config, userDataPath, frontend_dir)
 
 
 app.listen(config.port);
