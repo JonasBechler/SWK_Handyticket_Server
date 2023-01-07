@@ -5,30 +5,11 @@
         "password": "Passwort",
         "first_name": "Vorname",
         "last_name": "Nachname",
-        "bank_connection": "Bankverbingung",
-        "mobile": "Handynummer",
+        "iban": "IBAN",
+        "bic": "BIC",
         "knlogin_id": "FusionAuth ID"
     },
     "users": [
-        {
-            "account_id": "cb12db3a-3f77-43cf-bd70-74994e2426af",
-            "email": "a",
-            "password": "a",
-            "first_name": "a",
-            "last_name": "a",
-            "bank_connection": "a",
-            "mobile": "a",
-            "knlogin_id": "16024b0d-260b-49cb-b43d-e1d22338d74c"
-        },
-        {
-            "account_id": "5bf25345-afb4-4526-ae99-12b0f17dcf1e",
-            "email": "s",
-            "password": "s",
-            "first_name": "s",
-            "last_name": "s",
-            "bank_connection": "s",
-            "mobile": "s",
-            "knlogin_id": ""
-        }
+        
     ]
 }
