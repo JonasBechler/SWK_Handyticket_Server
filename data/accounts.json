@@ -10,6 +10,15 @@
         "knlogin_id": "FusionAuth ID"
     },
     "users": [
-        
+        {
+            "account_id": "45aa0dbf-05b7-4f79-8018-ed705ff66fff",
+            "email": "maxmuster@web.de",
+            "password": "schwach",
+            "first_name": "Max",
+            "last_name": "Muster",
+            "iban": "DE 00 0000 1234 5678",
+            "bic": "ABCD1234",
+            "knlogin_id": "0d8b1119-4f11-40e1-b9c7-e74cec72cbd8"
+        }
     ]
 }
