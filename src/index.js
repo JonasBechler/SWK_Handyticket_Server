@@ -1,12 +1,7 @@
 
 const path = require('path');
 
-let config = null;
-try{
-    config = require( "../../../config.json");
-}catch(error){
-    config = require( "../config.json");
-}
+const config = require( "../../config.json");
 
 config.port = config.handyticket.port
 config.port_react = config.handyticket.port_react
