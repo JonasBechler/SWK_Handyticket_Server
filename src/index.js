@@ -15,7 +15,7 @@ var app = require('./SWK_Server_Template/src/main')(config, userDataPath, fronte
 
 
 app.listen(config.port);
-console.log(`Konrad server started on port ${config.port}`);
+console.log(`Handyticket server started on port ${config.port}`);
 
 
 
