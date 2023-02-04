@@ -19,6 +19,16 @@
             "iban": "DE 00 0000 1234 5678",
             "bic": "ABCD1234",
             "knlogin_id": "0d8b1119-4f11-40e1-b9c7-e74cec72cbd8"
+        },
+        {
+            "account_id": "da00ee35-bca0-47d4-991c-d6d59a7f4cdb",
+            "email": "jonas@bechler.de",
+            "password": "adf",
+            "first_name": "sfg",
+            "last_name": "a",
+            "iban": "a",
+            "bic": "a",
+            "knlogin_id": "8523551b-440a-424a-8397-6712b1d4dd6d"
         }
     ]
 }

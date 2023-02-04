@@ -11,7 +11,7 @@ config.fusionauth = config.handyticket.fusionauth
 const frontend_dir = path.join(__dirname, "..", "SWK_Handyticket_React", "build")
 const userDataPath = path.join(__dirname, "..", "data", "accounts.json")
 
-var app = require('./SWK_Server_Template/src/main')(config, userDataPath, frontend_dir)
+var app = require('./SWK_Server_Template/src/intern/main')(config, userDataPath, frontend_dir)
 
 
 app.listen(config.port);
